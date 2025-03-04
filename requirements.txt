@@ -1,0 +1,11 @@
+python-telegram-bot==20.7
+python-dotenv==1.0.0
+requests==2.31.0
+password-strength==0.0.3.post2
+pysafebrowsing==0.1.2
+validators==0.22.0
+dnspython==2.6.1
+python-whois==0.8.0
+cryptography==42.0.5
+aiohttp==3.9.3
+beautifulsoup4==4.12.3 
